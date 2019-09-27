@@ -1,0 +1,8 @@
+{
+  "name": "danger-textlint-actions-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "textlint": "^11.2.3",
+    "textlint-rule-preset-japanese": "^2.0.1"
+  }
+}
