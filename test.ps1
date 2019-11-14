@@ -7,7 +7,7 @@ Param (
 [int]$Hits, [int]$AtBats
 )
 # End of Parameters
- Process {
+ Process {ads
 Clear-Host
 "Enter Name Hits AtBats..."
 $Avg = [int]($Hits / $AtBats*100)/100
